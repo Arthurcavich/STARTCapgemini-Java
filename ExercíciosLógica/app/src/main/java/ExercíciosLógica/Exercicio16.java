@@ -3,7 +3,7 @@
 sua média (aritmética), informar o nome e sua menção aprovado (media >= 7), Reprovado (media <= 5) e 
 Recuperação (media entre 5.1 a 6.9);
  */
-package ExerciciosLógica;
+package ExercíciosLógica;
 
 import java.util.Scanner;
 

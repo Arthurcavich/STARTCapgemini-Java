@@ -3,7 +3,7 @@
 por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas 
 efetuadas, informar o seu nome, o salário fixo e salário no final do mês
 */
-package ExerciciosLógica;
+package ExercíciosLógica;
 
 import java.util.Scanner;
 

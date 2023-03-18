@@ -5,7 +5,7 @@ do distribuidor sobre o resultado). Supondo que o percentual do distribuidor sej
 45%, escreva um algoritmo que leia o custo de fábrica de um carro e informe o custo ao consumidor do 
 mesmo;
  */
-package ExerciciosLógica;
+package ExercíciosLógica;
 
 import java.util.Scanner;
 

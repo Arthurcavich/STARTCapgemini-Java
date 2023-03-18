@@ -3,7 +3,7 @@
 dólar (US$). O algoritmo deverá solicitar o valor da cotação do dólar e também a quantidade de dólares 
 disponíveis com o usuário; 
 */
-package ExerciciosLógica;
+package ExercíciosLógica;
 
 import java.util.Scanner;
 

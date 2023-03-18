@@ -2,7 +2,7 @@
 dos dois números lidos;
 */
 
-package ExerciciosLógica;
+package ExercíciosLógica;
 
 import java.util.Scanner;
 

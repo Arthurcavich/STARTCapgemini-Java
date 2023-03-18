@@ -3,7 +3,7 @@
 possuir o valor da variável B e a variável "B" passe a possuir o valor da variável "A". Apresentar os valores 
 trocados; 
  */
-package ExerciciosLógica;
+package ExercíciosLógica;
 
 import java.util.Scanner;
 

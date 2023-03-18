@@ -1,7 +1,7 @@
 /*
 13. Faça um algoritmo que receba um número e mostre uma mensagem caso este número seja maior que 10.
  */
-package ExerciciosLógica;
+package ExercíciosLógica;
 
 import java.util.Scanner;
 

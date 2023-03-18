@@ -2,7 +2,7 @@
 15. Faça um algoritmo que receba um número e diga se este número está no intervalo entre 100 e 200;
 
  */
-package ExerciciosLógica;
+package ExercíciosLógica;
 
 import java.util.Scanner;
 

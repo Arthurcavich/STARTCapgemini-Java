@@ -5,7 +5,7 @@ desconto deverá ser calculado de acordo com o ano do veículo. Até 2000 - 12% 
 sistema deverá perguntar se deseja continuar calculando desconto até que a resposta seja: “(N) Não”. 
 Informar total de carros com ano até 2000 e total geral.
  */
-package ExerciciosLógica;
+package ExercíciosLógica;
 
 import java.util.Scanner;
 

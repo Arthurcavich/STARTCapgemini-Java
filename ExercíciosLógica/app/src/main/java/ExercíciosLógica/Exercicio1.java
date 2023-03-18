@@ -1,6 +1,6 @@
 //1. Faça um algoritmo que receba dois números e exiba o resultado da sua soma;
 
-package ExerciciosLógica;
+package ExercíciosLógica;
 
 public class Exercicio1 {
 
